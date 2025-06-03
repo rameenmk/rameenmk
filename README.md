@@ -1,8 +1,9 @@
 <h1 align="center">
   👋 Welcome to My GitHub!
 </h1>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Business+Analyst;Data+Enthusiast;Automotive+%26+Export+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Business+Analyst;Data+Enthusiast;Automotive+%26+Export+Specialist;Logistics+Manager" alt="Typing SVG" />
 </h3>
 
 ### 💼 About Me
@@ -14,13 +15,6 @@
 - 👯 I’m open to collaborating on **AI, Analytics, and Auto Industry insights**
 - 🧠 I’m learning **MLOps, Time-Series, and NLP with real-world data**
 - 📫 Reach me at: rmustafa@umass.edu
-
-**Languages:**  
-`Python` `SQL` `R` `Excel VBA`  
-**Frameworks & Tools:**  
-`Scikit-learn` `Tableau` `Power BI` `Hugging Face` `Alteryx`  
-**Workflow:**  
-`GitHub` `VS Code` `R Code` `Jupyter` `Google Colab`
 
 ## 🚀 Featured Projects
 
@@ -38,7 +32,6 @@
 </p>
 
 ## 🧰 Tech Stack & Tools
-
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -87,6 +80,7 @@
 </p>
 
 ---
+
 ### 📌 Let's Connect!
 
 <p align="left">
