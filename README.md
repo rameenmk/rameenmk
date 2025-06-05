@@ -22,7 +22,7 @@
 |--------|-------------|-------|
 | [✈️ Aerospace AirCab Scheduling](https://github.com/rameenmustafa/Aerospace-Project-AirCab-SystemsModel) | Built Gantt charts, WBS, sprint plan, and timeline using MS Project and Agile methods for air vehicle subsystem delivery | MS Project, Agile, WBS |
 | [🏠 Airbnb Sentiment Analysis](https://github.com/rameenmustafa/Airbnb-Analysis) | NLP-based analysis of Airbnb reviews using Transformers to determine sentiment trends | Hugging Face, Gradio, NLP |
-| [💸 Airfare Pricing Prediction](https://github.com/rameenmustafa/airfare-pricing-prediction) | ML model to predict airfare based on industry-style data (inspired by Delta, AA) | R, Analytic Solver, Regression |
+| [💸 Airfare Pricing Prediction](https://github.com/rameenmustafa/airfare-pricing-prediction) | ML model to predict airfare based on industry-style data (inspired by Delta, AA) | R, Analytic Solver, SAP Analytics Cloud |
 
 ## 📊 GitHub Activity
 <p align="center">
