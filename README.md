@@ -8,7 +8,8 @@
 
 ### 💼 About Me
 - 🎓 Master's in Business Analytics | UMass Amherst
-- 🏎️ 5+ years in global cars trading & logistics operations  
+- 🏎️ 5+ years in global cars trading & logistics operations
+- 💸 4+ years in Corporate Banking as a Financial Analyst and Trade Officer 
 - 🛩️ Strong interest in data science & predictive modeling  
 - 💬 Ask me about Python, SQL, Excel, Tableau, NLP, and Supply Chain Analytics  
 - 🔭 I’m currently working on **Self Driving Car through AI**
