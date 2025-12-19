@@ -7,15 +7,14 @@
 </h3>
 
 ### 💼 About Me
-- 🎓 Master's in Business Analytics | UMass Amherst
-- 🏎️ 3+ years in global cars trading & logistics operations
-- 💸 3+ years in Corporate Banking as a Financial Analyst and Trade Officer 
-- 🛩️ Strong interest in data science & predictive modeling  
-- 💬 Ask me about Python, SQL, Excel, Tableau, NLP, and Supply Chain Analytics  
-- 🔭 I’m currently working on **Self Driving Car through AI**
-- 👯 I’m open to collaborating on **AI, Analytics, and Auto Industry insights**
-- 🧠 I’m learning **MLOps, Time-Series, and NLP with real-world data**
-- 📫 Reach me at: rmustafa@umass.edu
+- 🎓 **Master’s in Business Analytics** from UMass Amherst, with a strong foundation in data, analytics, and business strategy
+- 🏥 **Business Analyst at CVS Health**, supporting Medicare Advantage analytics, care management, and enterprise reporting in regulated healthcare environments
+- 💼 **Former Business Analyst at PwC**, with 3+ years of experience delivering risk, compliance, and analytics solutions for financial services clients
+- 📊 **Hands-on experience with SQL, Python, Excel, Power BI, and Tableau**, using cohort-based analytics to support performance measurement and decision-making
+- 🤖 **Strong interest in advanced analytics and applied AI**, with a focus on predictive modeling and real-world, business-driven use cases
+- 🔬 **Currently expanding skills in machine learning, time-series analysis, NLP, and MLOps**, applying concepts through practical projects
+- 🤝 **Open to collaborating on data analytics and AI-driven initiatives** across healthcare and financial domain
+- 📫 Reach me at: work.rameen@gmail.com
 
 ## 🚀 Featured Projects
 
