@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Business+Analyst;Data+Enthusiast;Automotive+%26+Export+Specialist;Logistics+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Business+Analyst;Data+Enthusiast;Healthcare+%26+Financial+Analytics;Project+Manager" alt="Typing SVG" />
 </h3>
 
 ### 💼 About Me
