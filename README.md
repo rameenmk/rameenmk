@@ -8,8 +8,8 @@
 
 ### 💼 About Me
 - 🎓 **Master’s in Business Analytics** from UMass Amherst, with a strong foundation in data, analytics, and business strategy
-- 🏥 **Business Analyst at CVS Health**, supporting Medicare Advantage analytics, care management, and enterprise reporting in regulated healthcare environments
-- 💼 **Former Business Analyst at PwC**, with 3+ years of experience delivering risk, compliance, and analytics solutions for financial services clients
+- 🏥 **Business Analyst at BMW Manufacturing**, supporting supply chain analytics, operations management, and enterprise reporting in regulated manufacturing environments
+- 💼 **Former Business Analyst at Careem**, with 3+ years of experience delivering risk, compliance, and analytics solutions for operation services clients
 - 📊 **Hands-on experience with SQL, Python, Excel, Power BI, and Tableau**, using cohort-based analytics to support performance measurement and decision-making
 - 🤖 **Strong interest in advanced analytics and applied AI**, with a focus on predictive modeling and real-world, business-driven use cases
 - 🔬 **Currently expanding skills in machine learning, time-series analysis, NLP, and MLOps**, applying concepts through practical projects
