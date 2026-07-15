@@ -80,15 +80,6 @@ What it found:
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rameenmk&show_icons=true&hide_border=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameenmk&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ### 📫 Connect
 
 <p align="left">
