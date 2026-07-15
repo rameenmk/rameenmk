@@ -1,95 +1,101 @@
-<h1 align="center">
-  👋 Welcome to My GitHub!
-</h1>
+<h1 align="center">Hi, I'm Rameen Mustafa 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Business+Analyst;Data+Enthusiast;Healthcare+%26+Financial+Analytics;Project+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=520&lines=Business+Intelligence+Analyst;Business+Analyst+%7C+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+toward+Analytics+Engineering" alt="Typing SVG" />
 </h3>
 
-### 💼 About Me
-- 🎓 **Master’s in Business Analytics** from UMass Amherst, with a strong foundation in data, analytics, and business strategy
-- 🏥 **Business Analyst at BMW Manufacturing**, supporting supply chain analytics, operations management, and enterprise reporting in regulated manufacturing environments
-- 💼 **Former Business Analyst at Careem**, with 3+ years of experience delivering risk, compliance, and analytics solutions for operation services clients
-- 📊 **Hands-on experience with SQL, Python, Excel, Power BI, and Tableau**, using cohort-based analytics to support performance measurement and decision-making
-- 🤖 **Strong interest in advanced analytics and applied AI**, with a focus on predictive modeling and real-world, business-driven use cases
-- 🔬 **Currently expanding skills in machine learning, time-series analysis, NLP, and MLOps**, applying concepts through practical projects
-- 🤝 **Open to collaborating on data analytics and AI-driven initiatives** across healthcare and financial domain
-- 📫 Reach me at: work.rameen@gmail.com
+---
 
-## 🚀 Featured Projects
+### About me
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [✈️ Aerospace AirCab Scheduling](https://github.com/rameenmustafa/Aerospace-Project-AirCab-SystemsModel) | Built Gantt charts, WBS, sprint plan, and timeline using MS Project and Agile methods for air vehicle subsystem delivery | MS Project, Agile, WBS |
-| [🏠 Airbnb Sentiment Analysis](https://github.com/rameenmustafa/Airbnb-Analysis) | NLP-based analysis of Airbnb reviews using Transformers to determine sentiment trends | Hugging Face, Gradio, NLP |
-| [💸 Airfare Pricing Prediction](https://github.com/rameenmustafa/airfare-pricing-prediction) | ML model to predict airfare based on industry-style data (inspired by Delta, AA) | R, Analytic Solver, SAP Analytics Cloud |
+I take messy operational data and turn it into models, dashboards, and
+recommendations a stakeholder can actually act on. My day-to-day is SQL, Python,
+and Power BI, with a focus on dimensional modeling and on making analysis lead to
+a decision rather than just a chart. I'm currently moving deeper into analytics
+engineering, learning dbt and modern data-warehouse workflows.
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameenmk&show_icons=true&theme=default" />
-  <img src="https://streak-stats.demolab.com?user=rameenmk&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameenmk&layout=compact" />
+- 🎓 M.S. Business Analytics, UMass Amherst
+- 💼 BI Analyst at BMW Manufacturing; previously Business Analyst at Careem
+- 📊 Microsoft PL-300 (Power BI Data Analyst) · Lean Six Sigma Green Belt
+- 🎯 Open to Business Intelligence, Business Analyst, Data Analyst, and Analytics Engineer roles
+
+---
+
+### 🧰 Tech stack
+
+**Languages & query**
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-## 🧰 Tech Stack & Tools
+**BI & visualization**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+**Data & warehousing**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-005CA9?style=for-the-badge&logo=alteryx&logoColor=white" />
+</p>
+
+**Cloud & workflow**
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
+
+---
+
+### 🚀 Featured project
+
+**[DataCo Business Performance Review](https://github.com/rameenmk/dataco-business-analytics)**
+
+End-to-end analytics on 180,000 order lines, built the way a data team ships: a
+reproducible Python ETL that strips PII and validates itself, a star-schema
+warehouse in PostgreSQL, SQL analysis, and a Power BI dashboard with a documented
+semantic model.
+
+What it found:
+- Premium shipping tiers miss their promised delivery windows, First Class is
+  late 95% of the time because the quoted windows are unrealistic.
+- Half the order book ($19.1M) has never settled, most of it stuck in pending payment.
+- Every fraud flag traces to a single payment method, pointing to a system rule
+  rather than real fraud.
+
+`Python (pandas)` · `PostgreSQL` · `SQL` · `Power BI (DAX)` · `dimensional modeling` · `data validation`
+
+---
+
+### 📊 GitHub
+
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-
-  <!-- Cloud Platforms -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
-
-  <!-- ML & AI -->
-  <img src="https://img.shields.io/badge/Alteryx-005CA9?logo=dataiku&logoColor=white" />
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-7F93C2?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-
-  <!-- BI & Analytics Tools -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-003B71?logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white" />
-
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=black" />
-
-  <!-- Project & Collaboration -->
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?logo=microsoftsharepoint&logoColor=white" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rameenmk&show_icons=true&hide_border=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameenmk&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
 
-### 📌 Let's Connect!
+### 📫 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rameenmustafa/" target="_blank">
+  <a href="[https://www.linkedin.com/in/rameenmustafa/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:rmustafa@umass.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:[work.rameen@gmail.com]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
